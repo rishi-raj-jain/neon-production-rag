@@ -2,6 +2,12 @@
 
 Production-grade hybrid RAG over [Neon Postgres](https://neon.com/docs/introduction) documentation using **pgvector + full-text search**, **RRF fusion (k=60)**, **FastAPI**, **Next.js**, and **OpenAI**.
 
+
+
+https://github.com/user-attachments/assets/4154ae3d-39a0-49b2-a89b-0bf00ced399c
+
+
+
 ## Architecture
 
 ```
